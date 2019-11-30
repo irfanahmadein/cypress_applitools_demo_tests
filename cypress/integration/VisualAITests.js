@@ -4,10 +4,6 @@ import { LoginPage } from "../page-objects/login_page.spec"
 import { HomePage } from "../page-objects/home_page.spec"
 import { ChartPage } from "../page-objects/chart_page.spec"
 
-// https://eyes.applitools.com/?accountId=Bk-a2AdJQUyF--W8HHnbRg~~&userName=irfan.ahmad@upgrad.com&source=&
-// Username: irfan.ahmad@upgrad.com
-// API key: bxT0kSRoxAZZgW9EO4tf102RSKtCB76URnVtCvc104ft107A0110
-
 describe('Visual Tests', () => {
 
     const login = new LoginPage
